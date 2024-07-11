@@ -11,7 +11,7 @@ public class Util {
 
     private static final String URL = "jdbc:mysql://localhost:3306/mybdtest";
     private static final String USERNAME = "root";
-    private static final String PASSWORD = "Penguin020399";
+    private static final String PASSWORD = "root";
     private static final Logger LOGGER = Logger.getLogger(Util.class.getName());
 
     public static Connection getConnection() {
